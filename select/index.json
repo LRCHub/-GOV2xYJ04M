@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Figure.09",
+  "base_artist": "Linkin Park",
+  "createdAt": "2026-02-17T14:15:56.401555Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Figure.09",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/01_Figure.09_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Figure.09",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/02_Figure.09_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Figure.09",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/03_Figure.09_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Figure.09 - Demo 2002",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/04_Figure.09_-_Demo_2002_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Figure.09 - Live In Texas",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/05_Figure.09_-_Live_In_Texas_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Plaster 2 - Figure.09 Demo",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/06_Plaster_2_-_Figure.09_Demo_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Figure.09",
+      "artist": "[LINKIN PARK]",
+      "has_synced": true,
+      "path": "select/07_Figure.09_[LINKIN_PARK].lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Figure.09 (Demo 2002)",
+      "artist": "[LINKIN PARK]",
+      "has_synced": true,
+      "path": "select/08_Figure.09_(Demo_2002)_[LINKIN_PARK].lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Figure.09 (Demo 2002)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/09_Figure.09_(Demo_2002)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Figure.09 (demo)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/10_Figure.09_(demo)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Figure.09 (live)",
+      "artist": "Linkin Park",
+      "has_synced": false,
+      "path": "select/11_Figure.09_(live)_Linkin_Park.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Plaster 2 (Figure.09 demo)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/12_Plaster_2_(Figure.09_demo)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Figure.09",
+      "artist": "Linkin Park",
+      "has_synced": false,
+      "path": "select/13_Figure.09_Linkin_Park.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Figure.09",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/14_Figure.09_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Figure.09",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/15_Figure.09_Linkin_Park.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Figure.09",
+      "artist": "LINKIN PARK",
+      "has_synced": false,
+      "path": "select/pl_01_Figure.09_LINKIN_PARK.txt"
+    }
+  ]
+}
